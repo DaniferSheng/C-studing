@@ -1,1 +1,17 @@
+#include<iostream>
+using namespace std;
+int main(){
+int N,K,M;
+cin>>N>K;
+for(M=1;M<21;M++){
+  if(N>200*(pow(1+K,M)){
+   cout<<M<<endl;
+    }
+  else{
+  continue;
+    }
+}
 
+  system("pause");
+  return 0;
+}
